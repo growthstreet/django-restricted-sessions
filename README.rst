@@ -2,6 +2,8 @@
 django-restricted-sessions
 =============================
 
+## THIS IS A GS-SPECIFIC VERSION OF THIS LIBRARY
+
 .. image:: https://badge.fury.io/py/django-restricted-sessions.png
     :target: http://badge.fury.io/py/django-restricted-sessions
 
